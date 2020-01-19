@@ -278,7 +278,7 @@ ul {
 
 #contact_area .contact {
     display: flex;
-    height: 600px;
+    min-height: 650px;
     padding: 30px;
     justify-content: center;
     align-items: center;
@@ -290,7 +290,7 @@ ul {
     padding: 20px;
     background: var(--secondary-color);
     color: #fff;
-    height: 500px;
+    height: 550px;
     text-align: center;
 
 }
